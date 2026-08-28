@@ -1,0 +1,2 @@
+# Structural-Performance-of-Hollow-GFRP-Sections-filled-with-Geopolymer-Recycled-Aggregate-Concrete
+Repository represents the experimental datasets supporting the study “Structural Performance of Hollow GFRP Sections Filled with Geopolymer Recycled Aggregate Concrete.” The repository includes sieve analysis, UPV, cylinder, flexural, GFRP-filled column, and beam test results for GPRAC containing 0–100% recycled concrete aggregate (RCA).
